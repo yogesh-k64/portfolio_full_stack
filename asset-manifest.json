@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/yogesh-k64/portfolio_full_stack/static/css/main.347e2b20.css",
+    "main.js": "/yogesh-k64/portfolio_full_stack/static/js/main.9759a33d.js",
+    "static/js/453.a6a97343.chunk.js": "/yogesh-k64/portfolio_full_stack/static/js/453.a6a97343.chunk.js",
+    "static/media/mountains.png": "/yogesh-k64/portfolio_full_stack/static/media/mountains.6bceb498a0e1e0a70b47.png",
+    "static/media/cubePlus.webp": "/yogesh-k64/portfolio_full_stack/static/media/cubePlus.3b1b122e5a8de533f6df.webp",
+    "static/media/jogado.jpg": "/yogesh-k64/portfolio_full_stack/static/media/jogado.bf579e7b5b0f56d56c35.jpg",
+    "static/media/stars.png": "/yogesh-k64/portfolio_full_stack/static/media/stars.a979f6ed7ad00c7ea0b2.png",
+    "index.html": "/yogesh-k64/portfolio_full_stack/index.html",
+    "main.347e2b20.css.map": "/yogesh-k64/portfolio_full_stack/static/css/main.347e2b20.css.map",
+    "main.9759a33d.js.map": "/yogesh-k64/portfolio_full_stack/static/js/main.9759a33d.js.map",
+    "453.a6a97343.chunk.js.map": "/yogesh-k64/portfolio_full_stack/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.347e2b20.css",
+    "static/js/main.9759a33d.js"
+  ]
+}
