@@ -4,6 +4,7 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 
 import cubePlus from '../../assets/cubePlus.webp'
 import jogado from '../../assets/jogado.jpg'
+import mfImg from '../../assets/mf_img.png'
 import { useRef } from "react";
 
 const items = [
@@ -16,6 +17,18 @@ const items = [
   },
   {
     id: 2,
+    title: "Nxtrad Mutual Funds",
+    img: mfImg,
+    desc: ` high-performance mutual funds platform enabling investors to explore, invest, and track portfolios in real-time. Features include: Live NAV Updates: Automated data sync via third-party APIs and Redis caching, Secure Transactions: Integrated Razorpay payments with idempotent Golang microservices. Admin Dashboard: Role-based access for KYC approvals, user management, and fund analytics.`,
+  },
+  {
+    id: 3,
+    title: "Admin Dashboard",
+    img: mfImg,
+    desc: `Secure tiers for admins, managers, and support staff. Granular permissions for KYC approvals, fund management, and user data access. Document verification with automated alerts for pending/flagged cases. One-click approvals/rejections with comment trails.`,
+  },
+  {
+    id: 4,
     title: "Jogado",
     img: jogado,
     desc: "A mobile app that helps people find games, organize games, and connect with other sports enthusiasts. It offers a variety of sports facilities, including venues for cricket, football, badminton, and basketball.",
