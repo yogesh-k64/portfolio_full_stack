@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio_full_stack/static/css/main.0975e0ad.css",
-    "main.js": "/portfolio_full_stack/static/js/main.3ddf605b.js",
+    "main.js": "/portfolio_full_stack/static/js/main.9a3d482b.js",
     "static/js/453.a6a97343.chunk.js": "/portfolio_full_stack/static/js/453.a6a97343.chunk.js",
     "static/media/mountains.png": "/portfolio_full_stack/static/media/mountains.6bceb498a0e1e0a70b47.png",
     "static/media/cubePlus.webp": "/portfolio_full_stack/static/media/cubePlus.3b1b122e5a8de533f6df.webp",
-    "static/media/mf_img.png": "/portfolio_full_stack/static/media/mf_img.adac42ff05c4977c6a27.png",
+    "static/media/gentoo.jpg": "/portfolio_full_stack/static/media/gentoo.b7e48ce3ef6ca92052ec.jpg",
+    "static/media/nxtrade_mf.jpg": "/portfolio_full_stack/static/media/nxtrade_mf.3957e96325625e0d6918.jpg",
     "static/media/jogado.jpg": "/portfolio_full_stack/static/media/jogado.bf579e7b5b0f56d56c35.jpg",
     "static/media/stars.png": "/portfolio_full_stack/static/media/stars.a979f6ed7ad00c7ea0b2.png",
     "static/media/database.png": "/portfolio_full_stack/static/media/database.52afc1cac352be83e7fe.png",
@@ -23,11 +24,11 @@
     "static/media/Git.svg": "/portfolio_full_stack/static/media/Git.c08353563539c6459b353f29d8dd7bf2.svg",
     "static/media/Firebase.svg": "/portfolio_full_stack/static/media/Firebase.0d5ec3e60614ea8e4d7abbf0729e969b.svg",
     "main.0975e0ad.css.map": "/portfolio_full_stack/static/css/main.0975e0ad.css.map",
-    "main.3ddf605b.js.map": "/portfolio_full_stack/static/js/main.3ddf605b.js.map",
+    "main.9a3d482b.js.map": "/portfolio_full_stack/static/js/main.9a3d482b.js.map",
     "453.a6a97343.chunk.js.map": "/portfolio_full_stack/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0975e0ad.css",
-    "static/js/main.3ddf605b.js"
+    "static/js/main.9a3d482b.js"
   ]
 }
