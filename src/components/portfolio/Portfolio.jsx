@@ -3,8 +3,9 @@ import "./portfolio.scss";
 import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 
 import cubePlus from '../../assets/cubePlus.webp'
+import gentoo from '../../assets/gentoo.jpg'
 import jogado from '../../assets/jogado.jpg'
-import mfImg from '../../assets/mf_img.png'
+import mfImg from '../../assets/nxtrade_mf.jpg'
 import { useRef } from "react";
 
 const items = [
@@ -24,7 +25,7 @@ const items = [
   {
     id: 3,
     title: "Admin Dashboard",
-    img: mfImg,
+    img: gentoo,
     desc: `Secure tiers for admins, managers, and support staff. Granular permissions for KYC approvals, fund management, and user data access. Document verification with automated alerts for pending/flagged cases. One-click approvals/rejections with comment trails.`,
   },
   {
