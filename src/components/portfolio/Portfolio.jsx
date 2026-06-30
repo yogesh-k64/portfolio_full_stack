@@ -6,9 +6,16 @@ import cubePlus from '../../assets/cubePlus.webp'
 import gentoo from '../../assets/gentoo.jpg'
 import jogado from '../../assets/jogado.jpg'
 import mfImg from '../../assets/nxtrade_mf.jpg'
+import wespImg from '../../assets/automotive_documentation.jpg'
 import { useRef } from "react";
 
 const items = [
+  {
+    id: 5,
+    title: `WESP (World Encompassing SUMS Platform)`,
+    img: wespImg,
+    desc: "Enterprise automotive software lifecycle management platform for Mercedes-Benz, supporting vehicle software configuration, release management, approval workflows, and change request processing.",
+  },
   {
     id: 1,
     title: "CubePlus",
