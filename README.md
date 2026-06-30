@@ -1,6 +1,6 @@
 # Yogesh Kugan - Portfolio
 
-Welcome to my professional portfolio! This repository showcases my projects, skills, and experiences as a Software Developer. Feel free to explore my work and get in touch if you'd like to collaborate or have any questions.
+Welcome to my professional [portfolio!](https://yogesh-k64.github.io/portfolio_full_stack/) This repository showcases my projects, skills, and experiences as a Software Developer. Feel free to explore my work and get in touch if you'd like to collaborate or have any questions.
 
 ## About Me
 
