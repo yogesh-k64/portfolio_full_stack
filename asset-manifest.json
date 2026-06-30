@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio_full_stack/static/css/main.0975e0ad.css",
-    "main.js": "/portfolio_full_stack/static/js/main.9a3d482b.js",
+    "main.js": "/portfolio_full_stack/static/js/main.0fd7de6d.js",
     "static/js/453.a6a97343.chunk.js": "/portfolio_full_stack/static/js/453.a6a97343.chunk.js",
     "static/media/mountains.png": "/portfolio_full_stack/static/media/mountains.6bceb498a0e1e0a70b47.png",
     "static/media/cubePlus.webp": "/portfolio_full_stack/static/media/cubePlus.3b1b122e5a8de533f6df.webp",
     "static/media/gentoo.jpg": "/portfolio_full_stack/static/media/gentoo.b7e48ce3ef6ca92052ec.jpg",
     "static/media/nxtrade_mf.jpg": "/portfolio_full_stack/static/media/nxtrade_mf.3957e96325625e0d6918.jpg",
     "static/media/jogado.jpg": "/portfolio_full_stack/static/media/jogado.bf579e7b5b0f56d56c35.jpg",
+    "static/media/automotive_documentation.jpg": "/portfolio_full_stack/static/media/automotive_documentation.d60780a460a152698eca.jpg",
     "static/media/stars.png": "/portfolio_full_stack/static/media/stars.a979f6ed7ad00c7ea0b2.png",
     "static/media/database.png": "/portfolio_full_stack/static/media/database.52afc1cac352be83e7fe.png",
+    "static/media/postgresql.svg": "/portfolio_full_stack/static/media/postgresql.9aed68683d15cfc3c3fd8ddf1d89ff4e.svg",
+    "static/media/kafka.svg": "/portfolio_full_stack/static/media/kafka.607d2611a37ac2084cd5d12324ddbea5.svg",
     "static/media/Go.svg": "/portfolio_full_stack/static/media/Go.2774508588a4db110dbe30ed952d9774.svg",
     "static/media/Sass.svg": "/portfolio_full_stack/static/media/Sass.fb123914eb0e5cc6e0a65e2928d89e2a.svg",
     "static/media/Docker.svg": "/portfolio_full_stack/static/media/Docker.1d41320cb0101dbbc6fe182abd590263.svg",
@@ -24,11 +27,11 @@
     "static/media/Git.svg": "/portfolio_full_stack/static/media/Git.c08353563539c6459b353f29d8dd7bf2.svg",
     "static/media/Firebase.svg": "/portfolio_full_stack/static/media/Firebase.0d5ec3e60614ea8e4d7abbf0729e969b.svg",
     "main.0975e0ad.css.map": "/portfolio_full_stack/static/css/main.0975e0ad.css.map",
-    "main.9a3d482b.js.map": "/portfolio_full_stack/static/js/main.9a3d482b.js.map",
+    "main.0fd7de6d.js.map": "/portfolio_full_stack/static/js/main.0fd7de6d.js.map",
     "453.a6a97343.chunk.js.map": "/portfolio_full_stack/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0975e0ad.css",
-    "static/js/main.9a3d482b.js"
+    "static/js/main.0fd7de6d.js"
   ]
 }
